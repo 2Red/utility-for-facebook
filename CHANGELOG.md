@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ...
 
+## 1.0.1 - 2019/01/01
+### Added
+- Enter event (Message alert tone with google speech).
+
+### Fixed
+- Facebook Kount (Missing avatar group, group name is null).
+
 # [1.0.0] - 2018-12-23
 ### Added
 - Support Vietnamese.
