@@ -7,6 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 4.0.0 - 
+### Fixed
+- Get token
+
+### Changed
+- Disable Group and page management
+- Disable See the first message
+- Disable Storm(spam) likes your friend
+
+## 3.0.0 - 2019-05-30
+### Added
+- Profile Picture Guard.
+- Who is online.
+- See the first message
+- Storm(spam) likes your friend.
+
 ## 2.0.0 - 2019-03-08
 ### Fixed
 - Facebook Kount.
