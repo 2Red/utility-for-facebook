@@ -16,7 +16,7 @@ Features
 *Unseen message*
 - Block feature seen in messenger
 
-*Group and page management* (Disabled in version 4.0.0)
+*Group and page management* (Enalbe in version 4.1.0)
 - Leave multiple/all groups that you joined
 - Unlike multiple/all pages that you liked
 
@@ -25,10 +25,10 @@ Features
 - Icon funny
 ...you can copy them and use
 
-*See the first message* (Disabled in version 4.0.0)
+*See the first message* (Enalbe in version 4.1.0)
 - A feature help you see the first message you sent to your friend
 
-*Storm (spam) likes your friend* (Disabled in version 4.0.0)
+*Storm (spam) likes your friend* (Enalbe in version 4.1.0)
 - A feature help you to storm (spam) likes on your friends posts
 
 *Download video from Facebook*
