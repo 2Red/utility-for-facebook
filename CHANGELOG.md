@@ -7,7 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
-## 4.0.0 - 
+## 4.1.0 - 
+### Added
+- Vrdonate donation
+
+### Changed
+- Enable Group and page management
+- Enable See the first message
+- Enable Storm(spam) likes your friend
+
+### Removed
+- Bao Kim donation
+
+## 4.0.0 - 2019-08-27
 ### Fixed
 - Get token
 
