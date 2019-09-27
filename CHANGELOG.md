@@ -7,7 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
-## 4.1.0 - 2019-09-18
+## 4.1.3 - 2019-09-27
+### Changed
+- Compile js code by Closure Compiler
+
+## 4.1.2 - 2019-09-25
+### Changed
+- Unminify js code
+
+## 4.1.1 - 2019-09-24
+### Changed
+- Deobfucate js code
+- Minify js code
+
+## 4.1.0 - 
 ### Added
 - Vrdonate donation
 
