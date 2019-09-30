@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 4.1.4 - 2019-09-30
+### Fixed
+- Facebook dark theme
+
 ## 4.1.3 - 2019-09-27
 ### Changed
 - Compile js code by Closure Compiler
