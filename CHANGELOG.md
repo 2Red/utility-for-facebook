@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 4.1.5 - 
+### Added
+- Momo donation
+- Bank account number
+
+### Fixed
+- Fb Kount
+- Group and page management
+- See the first message
+- Profile guard/protect avatar
+- Spam like
+
+### Changed
+- Use js, css from extension (don't use from server)
+
+### Removed
+- Unghotoi donation
+
 ## 4.1.4 - 2019-09-30
 ### Fixed
 - Facebook dark theme
