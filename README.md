@@ -1,5 +1,4 @@
-Utility for Facebook to improve Facebook user's experience and more.
-
+Utility for Facebook to improve Facebook user's experience and more
 Author: 2Red-Nguyen Truong An
 
 Features
@@ -16,19 +15,22 @@ Features
 *Unseen message*
 - Block feature seen in messenger
 
-*Group and page management* (Enalbe in version 4.1.0)
+*Group and page management* (Enable in version 4.1.0)
 - Leave multiple/all groups that you joined
 - Unlike multiple/all pages that you liked
+
+*Interactive scan* (release in version 4.2.0)
+- A feature help you scan interactive with your friends
 
 *Emoji, icon funny*
 - Emoji sample
 - Icon funny
 ...you can copy them and use
 
-*See the first message* (Enalbe in version 4.1.0)
+*See the first message* (Enable in version 4.1.0)
 - A feature help you see the first message you sent to your friend
 
-*Storm (spam) likes your friend* (Enalbe in version 4.1.0)
+*Storm (spam) likes your friend* (Enable in version 4.1.0)
 - A feature help you to storm (spam) likes on your friends posts
 
 *Download video from Facebook*
