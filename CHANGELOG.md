@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 4.2.0 - 2020-02-29
+### Added
+- Top interaction
+- Add donation to dashboard
+- Add version to dashboard
+
+### Changed
+- Title Facebook Kount
+- Group and page management (choose all: only select all item on current page)
+- Mutli language for donation
+
+### Removed
+- Paypal donation
+
 ## 4.1.5 - 
 ### Added
 - Momo donation
