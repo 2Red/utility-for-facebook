@@ -7,6 +7,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 4.2.2 - 
+### Added
+- Facebook Kount: add column Stranger; add multi language for table
+- Top interaction: add multi language for table
+- Who is online: add multi language for table
+- Group and page management: add multi language for table
+
+### Fixed
+- Top interaction: after get data => order by comment; remove search by reaction
+- Facebook Kount: fix error not working
+
+## 4.2.1 - 2020-03-04
+### Fixed
+- Fix bug UI: missing menu Top interaction
+- Fix bug UI: change column ID -> Multi select in table Top interaction
+
+### Added
+- Add user id when user report or feedback
+
 ## 4.2.0 - 2020-02-29
 ### Added
 - Top interaction
@@ -24,7 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 4.1.5 - 
 ### Added
 - Momo donation
-- Bank account number
+- Bank number
 
 ### Fixed
 - Fb Kount
