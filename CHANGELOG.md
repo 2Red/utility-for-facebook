@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
-## 4.2.2 - 
+## 4.2.2 - 2020-04-16
 ### Added
 - Facebook Kount: add column Stranger; add multi language for table
 - Top interaction: add multi language for table
