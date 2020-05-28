@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 4.3.0 - 2020-04-28
+### Fixed
+- Load menu and report dialog in a common way
+- Get the page your friend liked
+- Get the group your friend joined
+
 ## 4.2.2 - 2020-04-16
 ### Added
 - Facebook Kount: add column Stranger; add multi language for table
