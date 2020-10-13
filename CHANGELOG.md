@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 4.3.2 - 2020-10-09
+### Fixed
+- Scan group
+- Scan group other joined
+
 ## 4.3.1 - 2020-06-22
 ### Fixed
 - Get dtsg
