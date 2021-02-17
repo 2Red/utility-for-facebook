@@ -7,10 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 4.4.0 - 2021-02-10
+### Fixed
+- Fix avatar
+- Disable scan friend online
+- Return to the old facebook layout
+
 ## 4.3.2 - 2020-10-09
 ### Fixed
 - Scan group
 - Scan group other joined
+- Remove tabs permission
 
 ## 4.3.1 - 2020-06-22
 ### Fixed
