@@ -7,6 +7,41 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 4.4.3 - 
+### Fixed
+- Group management
+- Top interaction
+- Spam like (fix logic code when user enter username url)
+
+### Removed
+- Scan group other joined
+
+## 4.4.2 - 2021-03-26
+### Fixed
+- Group management
+- Scan group of friend (fix logic code when user enter username url)
+- Find the first message (fix logic code when user enter username url), fix bug: If your friend deletes the chat, that tool does not count
+
+### Removed
+- Unseen message
+
+## 4.4.1 - 2021-02-27
+### Fixed
+- Count time spend on facebook
+- Find the first message (api get avatar doesn't work)
+- Unseen (old api doesn't work)
+- Download video facebook
+- Stop load more newsfeed
+- Custom theme (Facebook)
+
+### Removed
+- Return old facebook layout
+- Who is online
+- Donation js
+- Dark/custom theme for Google, Youtube red, Website blocker (Policy violation: https://developer.chrome.com/docs/extensions/mv2/single_purpose/)
+- Change the message alert tone with google speech
+- Emoji
+
 ## 4.4.0 - 2021-02-10
 ### Fixed
 - Fix avatar
