@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
-## 4.4.3 - 
+## 4.4.3 - 2021-04-22
 ### Fixed
 - Group management
 - Top interaction
