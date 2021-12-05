@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 5.0.0 - 
+### Fixed
+- Get access token, fb dtsg
+
+## 4.4.4 - 2021-09-22
+### Fixed
+- Download facebook video (some urls cannot be received)
+
 ## 4.4.3 - 2021-04-22
 ### Fixed
 - Group management
