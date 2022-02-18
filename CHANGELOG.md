@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
-## 5.0.0 - 
+## 5.0.1 - 
+### Fixed
+- Get access token (spam likes and top interaction is not working)
+
+## 5.0.0 - 2021-12-09
 ### Fixed
 - Get access token, fb dtsg
 
