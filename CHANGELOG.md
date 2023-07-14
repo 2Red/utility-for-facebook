@@ -7,7 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
-## 5.0.1 - 
+## 6.0.0 - 2023-03-13
+### Fixed
+- Get access token
+
+### Removed
+- Unghotoi donation
+- Spam like
+
+## 5.0.2 - 2022-09-15
+### Fixed
+- Get access token by old endpoint
+- Get avatar
+- Find first message
+- Disable top interaction
+
+## 5.0.1 - 2022-02-18
 ### Fixed
 - Get access token (spam likes and top interaction is not working)
 
