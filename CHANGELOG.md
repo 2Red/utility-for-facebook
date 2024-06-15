@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ...
 
+## 7.0.0 - 
+### Changed
+- Donation
+
+### Fixed
+- Get access token
+- Find the first message
+- Group and page management
+- Stop load more new feed
+- Profile picture guard
+- Top interaction
+
 ## 6.0.0 - 2023-03-13
 ### Fixed
 - Get access token
